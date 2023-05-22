@@ -44,6 +44,6 @@ fn extract_link_info(lex: &mut Lexer<URLToken>) -> (LinkUrl, LinkText) {
     // TODO: Implement extraction from link definition
 
     let mut url = String::from(lex.slice());
-
-    
+   
+    todo!();
 }   
